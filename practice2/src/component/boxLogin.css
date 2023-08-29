@@ -1,0 +1,7 @@
+.box{
+    position: fixed;
+    border: 2px solid black;
+    background-color: aquamarine;
+    width: 500px;
+    height: 250px;
+}

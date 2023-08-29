@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+main{
+    display: grid;
+    grid-template-columns: repeat(2,100);
+}
+.list{
+    border: 1px solid black;
+    height: 600px;
+}
+.mainBox{
+        border: 1px solid black;
+        height: 600px;    
+}

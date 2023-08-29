@@ -1,0 +1,13 @@
+.page{
+    position: static;
+    z-index: 3;
+}
+
+.box{
+    width: 150px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: aliceblue;
+    z-index: 3;
+}

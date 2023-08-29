@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    width: 100%;
+    height: 55px;
+}
+
+.title{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.loginButton{
+    height: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border: 2px solid blue;
+    border-radius: 5px;
+    background-color: transparent;
+    color: blue;
+}
